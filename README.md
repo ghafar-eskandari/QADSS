@@ -603,19 +603,3 @@ No guarantee is made regarding future predictive performance or profitability.
 
 Any practical use of model outputs should involve independent validation, appropriate risk management, and consideration of market conditions and execution constraints.
 
----
-
-## Author
-
-**Dr. Ghafar Eskandari**
-
-PhD in Biotechnology
-
-Research interests:
-
-* Data Science
-* Artificial Intelligence
-* Quantitative Decision Support
-* Agricultural Data Analytics
-* Poultry Genetics & Breeding
-* AI and Digital Transformation in Agriculture
